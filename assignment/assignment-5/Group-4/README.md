@@ -96,3 +96,19 @@ http://localhost:5173
 * User creation uses a Supabase Edge Function.
 * The Supabase Service Role Key is never exposed in the frontend.
 
+## Group 4 Members
+
+* Aung Khant Myat
+* Htoo Eaindra Tin
+* Kyawt Kyawt Zin
+* Kaung Myat Kyaw
+* Min Khant Kyaw
+* Myint Thu Soe
+* Myo Thet
+* Soe Thandar Tint
+* Thida Aye
+* Thant Sin Tun
+* Wai Yan Htet Aung
+
+---
+
