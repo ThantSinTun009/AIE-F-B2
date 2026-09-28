@@ -110,3 +110,8 @@ $ wc *.hi
 
 Link: [https://marian-nmt.github.io/](https://marian-nmt.github.io/)  
 
+## Submission Deadline
+
+Date: 3 Oct 2026  
+Format: Jupyter Notebook  
+
